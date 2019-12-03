@@ -1,7 +1,7 @@
 input_list=[-2,89,8,9]
 
 print(input_list)
-
+# write again after reading pseudo code
 
 def bubble_sort(initial):
     temp=0
