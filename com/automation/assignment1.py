@@ -5,7 +5,7 @@ print(input_list)
 
 def bubble_sort(initial):
     temp=0
-    print(initial)
+    #print(initial)
     for i in range(len(initial)):
         for j in range(i):
             if initial[i] < initial[j]:

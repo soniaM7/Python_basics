@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e15fc365-fcc3-47e2-a3fd-ec696e58ffeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/automation/module_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/automation/readable_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/automation/readable_file_use.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/automation/to do.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/automation/translator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/automation/try_catch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/automation/app2.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/automation/app2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/automation/app3.js.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/automation/app3.js.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/automation/app4.js.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/automation/app4.js.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/automation/app5.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/automation/app5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/automation/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/automation/assignment1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +37,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sonia\PycharmProjects\AutomationJob" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,8 +56,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.touples">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.module_learning">
+    <configuration name="app5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomationJob" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/com/automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/automation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/com/automation/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/automation/app5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="module_learning" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomationJob" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/com/automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/automation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/com/automation/app1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/automation/module_learning.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="touples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="readable_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomationJob" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +107,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/com/automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/automation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/com/automation/touples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/automation/readable_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readable_file_use" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomationJob" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/automation/readable_file_use.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try_catch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomationJob" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/automation/try_catch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,9 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.touples" />
-        <item itemvalue="Python.app1" />
-        <item itemvalue="Python.app" />
+        <item itemvalue="Python.module_learning" />
+        <item itemvalue="Python.app5" />
+        <item itemvalue="Python.readable_file" />
+        <item itemvalue="Python.readable_file_use" />
+        <item itemvalue="Python.try_catch" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +180,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
